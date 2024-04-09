@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+body{
+background-color: #ADD2C9;
+
+
+}
+
+h1{
+    margin: 0.7cm;  
+    color: #FAF9F9; 
+   font-family: "Anton", sans-serif;
+
+    
+}
+
+p{
+  
+    margin: 0.7cm;
+    font-family: "Playfair Display", serif;
+    background-color: #5EA3A3;
+    color: #FAF9F9;
+    border-radius: 10px;
+
+}
+
+.en{
+    margin: 0.7cm;
+    width: 3cm;
+    height: 2.8cm;
+    float: right;
+    margin: 1px;
+    border-radius: 40%;
+}
+
+.motor{
+    margin: 0.7cm;
+    width: 5cm;
+    height: 5.1cm;
+    float: right;
+    margin: 1px;
+    border-radius: 40%;
+
+}
+
+
+
+
